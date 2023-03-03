@@ -1,0 +1,90 @@
+body {
+    font-family: monospace;
+    background-color: lightgoldenrodyellow;
+background-repeat: no-repeat;
+background-size:cover
+  }
+
+  #pl1 {
+    height: 3cm;
+
+    
+  }
+  #pl2 {
+    height: 3cm;
+  }
+  #pl3 {
+    height: 3cm;
+  }
+  #pl4 {
+    height: 3cm;
+  }
+  #pnl1 {
+    padding: 230px;
+    display: none;
+  }
+  #pnl2{
+    padding: 230px;
+    display: none;
+  }
+  #pnl3{
+    padding: 230px;
+    display: none;
+  }
+  #pnl4 {
+    padding: 230px;
+    display: none;
+  }
+
+   #flip {
+    padding: 1px;
+    padding-left: 2cm;
+    background-image:url(https://th.bing.com/th/id/R.fbf22ab3504affc5f7f4c59f90f3efc0?rik=dEPCKBgTG%2b1j9Q&pid=ImgRaw&r=0);
+    border: solid 1px #c3c3c3;
+  }
+  body {
+    font-family: monospace;
+    background-image: url(https://i.pinimg.com/736x/72/55/a7/7255a71fce31aea2f34d06f0d90f9580.jpg);
+  }
+
+  .main {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+  }
+
+  
+  .main form {
+    display: grid;
+    grid-template-columns: 1fr 120px;
+    width: 100%;
+  }
+
+  .main form * {
+    padding: 10px;
+    margin: 10px;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 18px;
+    border: 3px solid black;
+    border-radius: 10px;
+  }
+
+  #guessButton {
+    background-color: #b2deff;
+    cursor: pointer;
+  }
+
+  #guessButton:hover {
+    background-color: #88c9fa;
+  }
+  .telling {
+    color: azure;
+    display: none;
+
+  }
+
+
+
+
+

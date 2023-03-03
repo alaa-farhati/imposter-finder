@@ -1,0 +1,51 @@
+
+      body {
+        font-family: monospace;
+    background-image: url(https://c.wallhere.com/photos/55/f1/video_games_pixel_art-169033.jpg!d);
+    background-repeat: no-repeat;
+   background-size:cover
+      }
+      .main{
+        color: rgb(252, 248, 247);
+        font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif; 
+        font-size: 100%;
+    text-align: center;
+    text-decoration:solid;
+      }
+    
+        
+    #start{
+        border: none;
+        color: rgb(246, 244, 244);
+        padding: 10px 18px;
+        text-align: center;
+        font-size: 16px;
+      }
+      #start {
+        background-color: #5d9651;
+        cursor: pointer;
+    margin: 10px;
+    font-family: monospace;
+    font-weight: bold;  
+    font-size: 18px;
+    border: 3px solid black;
+    border-radius: 10px;
+      }
+    
+      #start:hover {
+        background-color: #88c9fa;
+      }
+      
+      h1 {
+
+        color: lightcyan;
+        font-size: 40px;
+        background-image: url();
+        background-size: cover;
+      
+        background-repeat: no-repeat;
+      }
+    
+      
+      
+    
